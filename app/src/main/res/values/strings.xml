@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tax Problem</string>
+    <string name="title_activity_add_item">Add Shopping Item</string>
+    <string name="title_activity_basket">Receipt</string>
+    <string name="item_exempted">is Excempted</string>
+    <string name="item_imported">is Imported</string>
+    <string name="item_name">Enter Item Name</string>
+    <string name="item_price">Enter Item Price</string>
+    <string name="action_settings">Settings</string>
+    <string name="total_sales_tax">Total Sales Tax</string>
+    <string name="total_price">Total Price</string>
+    <string name="shopping_items">Shopping Items</string>
+</resources>
