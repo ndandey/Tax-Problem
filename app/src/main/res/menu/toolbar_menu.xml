@@ -4,11 +4,11 @@
 
     <item
         android:id="@+id/add"
-        android:title="Add Shopping Item"
+        android:title="@string/add_shopping_item"
         app:showAsAction="never" />
 
     <item
         android:id="@+id/checkout"
-        android:title="Check Out"
+        android:title="@string/check_out"
         app:showAsAction="never" />
 </menu>

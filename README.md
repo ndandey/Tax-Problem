@@ -1,7 +1,6 @@
 # Tax Problem App
 This app is to resolve the Tax Problem given by American Express Task.
 
-
 ### What is this repository for? 
 
 The main purpose of this repository is to showcase my android skills and solve the Tax Problem. To solve this problem, i have used the below Android Tools and API's:
@@ -25,7 +24,7 @@ The main purpose of this repository is to showcase my android skills and solve t
 
 3.  Or you can open the Project in Android Studio and Run.
 
-4. or use the attached gradlew to install the app using the command "gradlew installdebug".
+4. or use the given gradlew to install the app using the command "gradlew installdebug".
 
 ### How do I set up Data? ###
 1. In the Main Screen, Select Options and Click on Add Shopping Item.

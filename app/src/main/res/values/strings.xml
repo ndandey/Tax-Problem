@@ -10,4 +10,8 @@
     <string name="total_sales_tax">Total Sales Tax</string>
     <string name="total_price">Total Price</string>
     <string name="shopping_items">Shopping Items</string>
+    <string name="missing_fields">Item Name and Item Price can not be blank.</string>
+    <string name="add_shopping_item">Add Shopping Item</string>
+    <string name="check_out">Check Out</string>
+    <string name="plus_sign">plus sign</string>
 </resources>

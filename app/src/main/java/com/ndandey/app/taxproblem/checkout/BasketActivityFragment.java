@@ -93,6 +93,7 @@ public class BasketActivityFragment extends Fragment {
                             TextView totalSalesTaxValueTextView = view.findViewById(R.id.totalSalesTaxValueTextView);
                             totalSalesTaxValueTextView.setText(totalTax.toPlainString());
                             shoppingBasketViewModel.deleteItem(shoppingBasket);
+                            shoppingItemListViewModel.deleteItem(shoppingItem);
                         }
                     });
         }

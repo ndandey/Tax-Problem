@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:hint="@string/item_name"
         android:inputType="text"
-        android:maxLength="12"/>
+        android:maxLength="18"/>
 
     <EditText
         android:id="@+id/itemPrice"

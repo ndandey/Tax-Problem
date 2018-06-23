@@ -48,6 +48,7 @@
 
         <ImageView
             android:id="@+id/cart_plus_img"
+            android:contentDescription="@string/plus_sign"
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:src="@drawable/ic_plus" />

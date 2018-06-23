@@ -45,7 +45,7 @@ public class AddItemActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         if (item.getItemId() == R.id.action_save) {
             if (TextUtils.isEmpty(itemEditText.getText().toString()) || TextUtils.isEmpty(itemPriceEditText.getText().toString())) {
-                Toast.makeText(AddItemActivity.this,"Missing fields", Toast.LENGTH_SHORT)
+                Toast.makeText(AddItemActivity.this,R.string.missing_fields, Toast.LENGTH_SHORT)
                         .show();
                 return false;
             }
